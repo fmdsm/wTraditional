@@ -1,0 +1,10 @@
+## Interface: 40300
+## Title: [開發中]wTraditional
+## Author: 
+## Version: 0.4
+## Dependencies : 
+## SavedVariables:
+## Notes: 游戏内简体转繁体(/tr)
+
+string.lua
+core.lua
